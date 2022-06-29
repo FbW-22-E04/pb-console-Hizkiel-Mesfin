@@ -9,19 +9,19 @@ console.log(exercise);
 
 // task #3
 const firstName = "Hizkiel";
-const lastNAme = "Mesfin";
+const lastName = "Mesfin";
 
-console.log(firstName, lastNAme);
+console.log(firstName, lastName);
 
 // task #4
 const age = 29;
 const city = "Neumünster";
 const job = "student";
 
-console.log(firstName, lastNAme, age, city, job);
+console.log(firstName, lastName, age, city, job);
 
 // task #5
 console.log(
   firstName,
-  lastNAme + " is a " + age + " years old " + job + " who lives in " + city
+  lastName + " is a " + age + " years old " + job + " who lives in " + city
 );
